@@ -1,9 +1,9 @@
 # Metadata
-site_name: python_template
+site_name: machine_learning
 site_description: Dolore fugiat ullamco voluptate incididunt voluptate voluptate magna esse eiusmod velit deserunt cillum ut do.
 site_author: Felix Hoffmann
-repo_name: python_template
-repo_url: https://github.com/felixhoffmnn/python_template
+repo_name: machine_learning
+repo_url: https://github.com/felixhoffmnn/machine_learning
 
 # Navigation
 nav:

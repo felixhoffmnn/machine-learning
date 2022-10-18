@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python_template"
+name = "machine_learning"
 version = "0.1.0"
 description = "Dolore fugiat ullamco voluptate incididunt voluptate voluptate magna esse eiusmod velit deserunt cillum ut do."
 authors = [

@@ -5,9 +5,9 @@
 
 ---
 
-# python_template
+# machine_learning
 
-- [python_template](#python_template)
+- [machine_learning](#machine_learning)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
   - [Tips & Tricks](#tips--tricks)

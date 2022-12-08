@@ -19,17 +19,10 @@
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"
       alt="Codestyle: Prettier" />
   </a>
-  <!-- <a href="https://github.com/pre-commit/pre-commit">
+  <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white"
       alt="pre-commit" />
-  </a> -->
-  <!-- <a href="https://results.pre-commit.ci/latest/github/felixhoffmnn/python_template/main">
-    <img src="https://results.pre-commit.ci/badge/github/felixhoffmnn/python_template/main.svg"
-      alt="pre-commit CI" />
-  </a> -->
-  <!-- <a href="https://codecov.io/gh/felixhoffmnn/python_template" >
-    <img src="https://codecov.io/gh/felixhoffmnn/python_template/branch/main/graph/badge.svg?token=XV1JGI8GUM" alt="Code coverage"/>
-  </a> -->
+  </a>
 </div>
 <br>
 
@@ -42,9 +35,9 @@ Excepteur ea eiusmod adipisicing dolor do qui mollit tempor. Tempor sit cillum i
 > :arrow_up: Python 3.10 required.
 
 1. Install [Poetry](https://python-poetry.org/docs/#installation)
-   - Poetry is a dependency manager for Python used in this project
+    - Poetry is a dependency manager for Python used in this project
 2. Run `poetry install` to install all dependencies
-   - Afterwards, run `poetry shell` to activate the virtual environment
+    - Afterwards, run `poetry shell` to activate the virtual environment
 3. Install the pre-commit hooks with `poetry run pre-commit install`
 
 ## :bulb: Tips & Tricks
@@ -60,7 +53,7 @@ In nisi mollit proident ullamco in consectetur. Proident aute dolore labore comm
 ## :warning: Known Issues
 
 1. Poetry environment is not shown in VSCode
-   - See https://crapts.org/2020/05/11/use-poetry-for-python-dependency-management-with-visual-studio-code/ for a solution
+    - See https://crapts.org/2020/05/11/use-poetry-for-python-dependency-management-with-visual-studio-code/ for a solution
 
 ## :memo: License
 

@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {
-    "editor.defaultFormatter": "ms-python.python",
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.codeActionsOnSave": {
       "source.organizeImports": true,
       "source.fixAll": true,
@@ -13,10 +13,13 @@
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
   // "yaml.customTags": ["!!python/name:materialx.emoji.twemoji", "!!python/name:materialx.emoji.to_svg"],
   "python.languageServer": "Pylance",
   "python.formatting.provider": "black",
   "python.linting.mypyEnabled": true,
   "python.linting.pylintEnabled": true,
-  "python.linting.flake8Enabled": true
+  "autoDocstring.docstringFormat": "numpy"
 }

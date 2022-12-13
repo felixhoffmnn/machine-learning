@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Excepteur ea eiusmod adipisicing dolor do qui mollit tempor.
+  Exercises, presentation, and final project related to the lecture "Machine Learning" at the DHBW Stuttgart.
 </h4>
 
 <div align="center">
@@ -22,7 +22,7 @@
   <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white"
       alt="pre-commit" />
-  </a>
+  </a> -->
 </div>
 <br>
 
@@ -40,21 +40,6 @@ Excepteur ea eiusmod adipisicing dolor do qui mollit tempor. Tempor sit cillum i
     - Afterwards, run `poetry shell` to activate the virtual environment
 3. Install the pre-commit hooks with `poetry run pre-commit install`
 
-## :bulb: Tips & Tricks
-
-<!-- TODO: Add GitHub instructions for branch protection, versioning, and templates -->
-
-<!-- TODO: Instruction on codecov, pre-commit, and codeql -->
-
-<!-- TODO: Deployment methods for Mkdocs -->
-
-In nisi mollit proident ullamco in consectetur. Proident aute dolore labore commodo cillum velit qui qui mollit irure labore. Magna ipsum tempor ea eiusmod eu ex consectetur. Aliquip occaecat cupidatat reprehenderit elit excepteur labore voluptate exercitation cupidatat nostrud.
-
-## :warning: Known Issues
-
-1. Poetry environment is not shown in VSCode
-    - See https://crapts.org/2020/05/11/use-poetry-for-python-dependency-management-with-visual-studio-code/ for a solution
-
 ## :memo: License
 
-This project is licensed under MIT.
+This project is licensed under [MIT](LICENSE).

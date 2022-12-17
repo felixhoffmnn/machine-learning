@@ -40,6 +40,14 @@ repos:
         stages: [commit, push]
         types: [yaml]
 
+  - repo: https://github.com/kynan/nbstripout
+    rev: 0.6.1
+    hooks:
+      - id: nbstripout
+        name: strip output from notebooks (nbstripout)
+        stages: [commit, push]
+        types: [jupyter]
+
   - repo: https://github.com/pycqa/isort
     rev: 5.10.1
     hooks:

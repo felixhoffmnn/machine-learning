@@ -27,6 +27,7 @@
     "Mkdocs",
     "mkdocstrings",
     "mypy",
+    "nbstripout",
     "pipx",
     "pymdownx",
     "pyproject",

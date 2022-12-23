@@ -192,3 +192,7 @@ cython_debug/
 
 # Pyenv
 .python-version
+
+# Checkpoints
+machine_learning/exam/checkpoints
+

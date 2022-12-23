@@ -30,6 +30,7 @@ tensorflow-datasets = "^4.7.0"
 keras = "^2.11.0"
 pyyaml = "^6.0"
 h5py = "^3.7.0"
+lazypredict = "^0.2.12"
 
 [tool.poetry.group.dev.dependencies]
 black = { extras = ["jupyter"], version = "^22.8.0" }

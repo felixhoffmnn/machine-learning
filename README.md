@@ -28,7 +28,7 @@
 
 <!-- TODO: Edit paragraph -->
 
-Excepteur ea eiusmod adipisicing dolor do qui mollit tempor. Tempor sit cillum ipsum aliquip excepteur eiusmod ut laboris consectetur veniam. Ipsum ad ad officia voluptate amet. Tempor anim Lorem excepteur sit est magna ad ex in labore consequat est. Aute aliqua nisi labore elit eiusmod aute excepteur cillum. Consectetur do fugiat reprehenderit irure commodo anim eu et non id enim excepteur irure. Occaecat aliquip eiusmod sit officia do et quis ut duis duis cillum eiusmod.
+This machine learning project is part of the DHBW Stuttgart on machine learning during the 5th semester.
 
 ## :handshake: Requirements
 

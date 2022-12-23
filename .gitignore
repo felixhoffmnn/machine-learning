@@ -15,7 +15,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
+downloads/ 
 eggs/
 .eggs/
 lib/
@@ -189,3 +189,10 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
+
+# Pyenv
+.python-version
+
+# Checkpoints
+machine_learning/exam/checkpoints
+
